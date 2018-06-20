@@ -4,7 +4,9 @@ description: hoge
 
 # Initial page
 
-piyo
+```bash
+hoge
+```
 
 
 
